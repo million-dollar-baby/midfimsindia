@@ -5255,7 +5255,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-right: 0px; } }
 #fh5co-header > .navbar li a {
   text-transform: uppercase;
-  color: #b0b7bc;
+  color: #d5cfd4;
   font-weight: normal;
   font-family: "Avenir", light, sans-serif;
 }
@@ -5893,7 +5893,7 @@ pre {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #000;
+  background: # rgba(0, 0, 0, 0);
   opacity: .3;
   z-index: 8; }
 .owl-carousel-fullwidth .item img {
@@ -5920,7 +5920,7 @@ pre {
   margin-bottom: 30px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-family: "Montserrat", arial, sans-serif; }
+  font-family: "Trajan Pro"; }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
   font-size: 30px;
   line-height: 42px;

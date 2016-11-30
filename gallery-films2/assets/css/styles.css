@@ -35,7 +35,7 @@ html, body {
     text-decoration: none;
     color: black;
     font-size: 21px;
-    padding-top: 15px;
+    padding-top: 1px;
 }
 
 #container {
@@ -48,9 +48,9 @@ html, body {
     -webkit-column-count: 3;
     -webkit-column-gap:   0px;
     -moz-column-count:    3;
-    -moz-column-gap:      0px;
+    -moz-column-gap:      10px;
     column-count:         3;
-    column-gap:           0px;
+    column-gap:           30px;
 }
 
 #photos img {
