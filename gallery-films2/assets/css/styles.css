@@ -50,7 +50,7 @@ html, body {
     -moz-column-count:    3;
     -moz-column-gap:      10px;
     column-count:         3;
-    column-gap:           30px;
+    column-gap:           70px;
 }
 
 #photos img {
