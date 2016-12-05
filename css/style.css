@@ -5885,7 +5885,7 @@ pre {
 .owl-carousel-fullwidth .item {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top left;
+  background-position: center;
   position: relative; }
 .owl-carousel-fullwidth .item .fh5co-overlay {
   position: absolute;

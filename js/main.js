@@ -44,9 +44,11 @@
 		owl.owlCarousel({
 			items: 1,
 		    loop: true,
+                        center: true,
 		    margin: 0,
                         
 		    responsiveClass: true,
+            center: true,
 		    nav: true,
 		    dots: true,
 		    smartSpeed: 500,
