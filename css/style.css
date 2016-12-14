@@ -5241,7 +5241,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 40px;
   padding-right: 40px;
   margin-bottom: 0;
-  background: #737479;
+  background: #a0a2a9;
   -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   -ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
@@ -5255,7 +5255,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-right: 0px; } }
 #fh5co-header > .navbar li a {
   text-transform: uppercase;
-  color: #d5cfd4;
+  color: #fff;
   font-weight: normal;
   font-family: "Avenir", light, sans-serif;
 }
@@ -5304,7 +5304,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header > .navbar li.active a {
   background: transparent; }
 #fh5co-header > .navbar li.active a > span .border {
-    background: #b0b7bc;
+    background: #fff;
 }
 #fh5co-header .navbar-brand {
   font-weight: bold;
@@ -5806,8 +5806,8 @@ pre {
   z-index: 9999;
   position: absolute;
   -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s; }
+  -o-transition: 0.1s;
+  transition: 0.1s; }
 
 .owl-carousel-posts .owl-controls .owl-nav .owl-next, .owl-carousel-posts .owl-controls .owl-nav .owl-prev {
   top: 24%; }
